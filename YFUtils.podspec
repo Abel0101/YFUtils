@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "YFUtils"
-  s.version      = "0.0.2"
+  s.version      = "v0.0.1"
   s.summary      = "A short description of YFUtils."
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/Abel0101/YFUtils.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/Abel0101/YFUtils.git", :tag => "v0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   #Patterns
 
   #s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "YFDemo/YFDemo/Utils/*.{h,m}"
+  s.exclude_files = "YFDemo/YFDemo/Utils/*"
 
   # s.public_header_files = "Classes/**/*.h"
 
