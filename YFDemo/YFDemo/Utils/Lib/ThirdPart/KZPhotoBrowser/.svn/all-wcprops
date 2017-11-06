@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/app/!svn/ver/1154/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser
+END
+KZTapDetectingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/app/!svn/ver/1146/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser/KZTapDetectingView.h
+END
+KZPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/app/!svn/ver/1146/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser/KZPhoto.h
+END
+KZTapDetectingImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/app/!svn/ver/1146/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser/KZTapDetectingImageView.h
+END
+KZTapDetectingView.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/app/!svn/ver/1146/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser/KZTapDetectingView.m
+END
+KZZoomingScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/app/!svn/ver/1146/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser/KZZoomingScrollView.h
+END
+KZPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/app/!svn/ver/1146/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser/KZPhotoBrowser.h
+END
+KZPhoto.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/app/!svn/ver/1146/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser/KZPhoto.m
+END
+KZTapDetectingImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/app/!svn/ver/1146/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser/KZTapDetectingImageView.m
+END
+KZZoomingScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/app/!svn/ver/1146/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser/KZZoomingScrollView.m
+END
+KZPhotoBrowser.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/app/!svn/ver/1154/trunk/GetOn/GetOn/Classes/Common/KZPhotoBrowser/KZPhotoBrowser.m
+END
