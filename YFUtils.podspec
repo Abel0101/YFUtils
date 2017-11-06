@@ -89,10 +89,10 @@ Pod::Spec.new do |s|
   #  giving a folder will include any swift, h, m, mm, c & cpp files.
   #  For header files it will include any header in the folder.
   #  Not including the public_header_files will make all headers public.
-  #
+  #Patterns
 
   #s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "YFDemo/YFDemo/Utils.{h,m}"
+  s.exclude_files = "YFDemo/YFDemo/Utils/**/*.{h,m}"
 
   # s.public_header_files = "Classes/**/*.h"
 
