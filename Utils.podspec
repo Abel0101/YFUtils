@@ -18,4 +18,6 @@ Pod::Spec.new do |s|
   s.dependency "AFNetworking"
   s.dependency "FMDBHelpers"
 
+  s.public_header_files = 'Utils/Classes/**/*.h' 
+
 end
