@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   #Patterns
 
   #s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "YFDemo/YFDemo/Utils/*"
+  s.exclude_files = "/*"
 
   # s.public_header_files = "Classes/**/*.h"
 
