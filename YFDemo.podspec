@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "YFUtils"
+  s.name         = "YFDemo"
   s.version      = "0.0.2"
   s.summary      = "A short description of YFUtils."
 
@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   #Patterns
 
   # s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "YFDemo/*"
+  s.exclude_files = "YFDemo/YFUtils/Utils/*"
 
   # s.public_header_files = "Classes/**/*.h"
 
