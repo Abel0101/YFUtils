@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "YFDemo"
+  s.name         = "Utils"
   s.version      = "0.0.2"
   s.summary      = "A short description of YFUtils."
 
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                     简单工具类
                    DESC
 
-  s.homepage     = "https://github.com/Abel0101/YFUtils"
+  s.homepage     = "https://github.com/Abel0101/YFUtils/YFDemo/YFDemo/Utils"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/Abel0101/YFUtils.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/Abel0101/YFUtils/YFDemo/YFDemo/Utils.git", :tag => "0.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -91,8 +91,8 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #Patterns
 
-  # s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.exclude_files = "YFUtils/YFDemo/YFDemo/*"
+  s.source_files  = "Classes", "Classes/**/*.{h,m}"
+  # s.source_files = "YFUtils/YFDemo/YFDemo/*"
 
   # s.public_header_files = "Classes/**/*.h"
 
