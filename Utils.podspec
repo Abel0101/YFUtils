@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "YFUtils"    
+  s.name         = "Utils"    
   s.version      = "0.0.2"      
   s.summary      = "a repository demo"  
   s.description  = "a repository demo"  
