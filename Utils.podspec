@@ -10,6 +10,12 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/Abel0101/YFUtils.git", :tag => "0.0.2" }        
   s.source_files  =  "YFDemo/YFDemo/Utils/**/*.{h,m}" 
   s.requires_arc = true 
-  
+  s.dependency "SDWebImage"
+  s.dependency "Masonry"
+  s.dependency "FMDB"
+  s.dependency "MBProgressHUD"
+  s.dependency 'MJExtension', '~> 3.0.13'
+  s.dependency "AFNetworking"
+  s.dependency "FMDBHelpers"
 
 end
